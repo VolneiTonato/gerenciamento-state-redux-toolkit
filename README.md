@@ -2,7 +2,20 @@
 
 Este projeto foi criado para simplificar o uso de compartilhamento de estados do react usando a biblioteca redux-toolkit.
 
-State Inicial da Pagina:
+## Exemplo
+
+
+### State Inicial da Pagina:
 
 ![Image of Estado Inicial Pagina]
-(./assets/estado-inicial.png)
+(https://github.com/VolneiTonato/gerenciamento-state-redux-toolkit/blob/master/assets/estado-inicial.png)
+
+
+### Após escolher algum estado do Brasil, o state atualiza em componentes diferentes
+
+![Image of Estado Change Pagina]
+(https://github.com/VolneiTonato/gerenciamento-state-redux-toolkit/blob/master/assets/estado-change.png)
+
+
+
+
