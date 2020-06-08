@@ -1,11 +1,5 @@
 import {ApiConfig } from './config'
 
-export interface httpRequest {
-    erro?: boolean,
-    loading?: boolean,
-    success?: boolean
-}
-
 
 export class EstadoApi extends ApiConfig{
     
