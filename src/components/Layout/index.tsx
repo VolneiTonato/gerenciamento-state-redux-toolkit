@@ -16,7 +16,6 @@ const useStyles = makeStyles((theme) => ({
         minHeight: '100vh',
     },
     main: {
-        marginLeft:theme.spacing(0),
         marginTop: theme.spacing(8),
         marginBottom: theme.spacing(2),
     }
@@ -30,7 +29,7 @@ const Layout = (props: Props) => {
 
                 <CssBaseline />
                 <Header />
-                <Container component="main" className={classes.main} maxWidth="lg">
+                <Container component="main" className={classes.main}>
 
                     {props.children}
                 </Container>
