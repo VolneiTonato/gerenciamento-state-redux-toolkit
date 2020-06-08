@@ -1,5 +1,5 @@
 import React from 'react'
-import { AppBar, Toolbar, IconButton, Typography, Box } from '@material-ui/core'
+import { AppBar, Toolbar, Typography, Box } from '@material-ui/core'
 import { useSelector} from 'react-redux'
 import {RootState} from '../../../store'
 
