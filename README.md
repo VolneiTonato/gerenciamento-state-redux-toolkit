@@ -7,14 +7,12 @@ Este projeto foi criado para simplificar o uso de compartilhamento de estados do
 
 ### State Inicial da Pagina:
 
-![Image of Estado Inicial Pagina]
-(https://github.com/VolneiTonato/gerenciamento-state-redux-toolkit/blob/master/assets/estado-inicial.png)
+![Image of Estado Inicial Pagina](/assets/estado-inicial.png)
 
 
 ### Após escolher algum estado do Brasil, o state atualiza em componentes diferentes
 
-![Image of Estado Change Pagina]
-(https://github.com/VolneiTonato/gerenciamento-state-redux-toolkit/blob/master/assets/estado-change.png)
+![Image of Estado Change Pagina](/assets/estado-change.png)
 
 
 
